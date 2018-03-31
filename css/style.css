@@ -1,4 +1,9 @@
 
+body {
+	background-image: url("/img/ijs_slide_bkgd_high_res.png");
+	background-size: cover;
+	background-position: bottom;
+}
 
 .reveal a {
 	color: #222;
@@ -81,7 +86,7 @@ header {
 
 footer {
 	position: fixed;
-	bottom: 40px;
+	top: 20px;
 	right: 40px;
 }
 
