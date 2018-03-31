@@ -1,6 +1,6 @@
 
 body {
-	background-image: url("/img/ijs_slide_bkgd_high_res.png");
+	background-image: url("../img/ijs_slide_bkgd_high_res.png");
 	background-size: cover;
 	background-position: bottom;
 }
