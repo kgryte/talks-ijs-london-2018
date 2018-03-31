@@ -1,0 +1,50 @@
+{
+  "name": "talks-ijs-london-2018",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Talk for the International JavaScript Conference, iJS, London (2018).",
+  "author": {
+    "name": "Athan Reines",
+    "email": "kgryte@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Athan Reines",
+      "email": "kgryte@gmail.com"
+    }
+  ],
+  "scripts": {},
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kgryte/talks-ijs-london-2018.git"
+  },
+  "keywords": [
+		"talk",
+		"slides",
+		"presentation",
+    "ijs",
+    "london",
+    "math",
+    "mathematics",
+    "numeric computing",
+    "javascript",
+    "js",
+    "nodejs",
+    "node",
+    "native",
+    "addons",
+    "nan",
+    "napi",
+    "n-api"
+	],
+  "bugs": {
+    "url": "https://github.com/kgryte/talks-ijs-london-2018/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "2.x.x",
+    "jshint-stylish": "2.x.x"
+  },
+  "license": ""
+}
